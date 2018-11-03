@@ -1,11 +1,14 @@
 {
 	"name": "@versioning/text",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "The text component",
 	"author": "Audnav",
 	"main": "dist/index.js",
 	"module": "src/index.js",
-	"files": ["dist", "src"],
+	"files": [
+		"dist",
+		"src"
+	],
 	"directories": {
 		"lib": "src"
 	},
