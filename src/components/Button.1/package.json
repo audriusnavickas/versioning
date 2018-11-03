@@ -1,7 +1,7 @@
 {
-	"name": "@versioning/button",
-	"version": "0.1.1",
-	"description": "The button component",
+	"name": "@versioning/text",
+	"version": "0.1.0",
+	"description": "The text component",
 	"author": "Audnav",
 	"main": "dist/index.js",
 	"module": "src/index.js",
@@ -11,9 +11,6 @@
 	},
 	"scripts": {
 		"clean": "rimraf dist && mkdir dist"
-    },
-    "dependencies": {
-		"@versioning/text": "0.1.0"
 	},
 	"peerDependencies": {
 		"react": "^16.0.0",
