@@ -1,0 +1,19 @@
+{
+	"name": "@versioning/button",
+	"version": "0.1.0",
+	"description": "The button component",
+	"author": "Audnav",
+	"main": "dist/index.js",
+	"module": "src/index.js",
+	"files": ["dist", "src"],
+	"directories": {
+		"lib": "src"
+	},
+	"scripts": {
+		"clean": "rimraf dist && mkdir dist"
+	},
+	"peerDependencies": {
+		"react": "^16.0.0",
+		"react-dom": "^16.0.0"
+	}
+}
