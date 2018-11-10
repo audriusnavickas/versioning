@@ -2,7 +2,7 @@ import React, {Fragment} from 'react';
 
 const Text = () => {
     return (
-        <Fragment>Click it now</Fragment>
+        <Fragment>Click it</Fragment>
     );
 };
 
