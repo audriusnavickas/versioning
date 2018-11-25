@@ -1,6 +1,6 @@
 {
-	"name": "@versioning/button",
-	"version": "0.2.1",
+	"name": "@audnav/button",
+	"version": "0.0.0",
 	"description": "The button component",
 	"author": "Audnav",
 	"main": "dist/index.js",
@@ -13,10 +13,11 @@
 		"lib": "src"
 	},
 	"scripts": {
-		"clean": "rimraf dist && mkdir dist"
+		"clean": "rimraf dist && mkdir dist",
+		"build": "../../rollup -c"
 	},
 	"dependencies": {
-		"@versioning/text": "^0.2.1"
+		"@audnav/text": "^0.0.0"
 	},
 	"peerDependencies": {
 		"react": "^16.0.0",

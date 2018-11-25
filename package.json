@@ -24,11 +24,18 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@storybook/react": "^4.0.2",
+    "@babel/core": "^7.1.2",
     "@storybook/addon-actions": "^4.0.2",
     "@storybook/addon-links": "^4.0.2",
     "@storybook/addons": "^4.0.2",
-    "@babel/core": "^7.1.2",
-    "babel-loader": "^8.0.4"
+    "@storybook/react": "^4.0.2",
+    "babel-loader": "^8.0.4",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "babel-preset-react": "^6.24.1",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^3.4.0",
+    "rollup-plugin-replace": "^2.1.0",
+    "rollup-plugin-uglify": "^6.0.0"
   }
 }
