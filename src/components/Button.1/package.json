@@ -1,6 +1,6 @@
 {
-	"name": "@audnav/text",
-	"version": "0.0.5",
+	"name": "text",
+	"version": "0.0.3",
 	"description": "The text component",
 	"author": "Audnav",
 	"main": "dist/index.js",
@@ -19,5 +19,5 @@
 		"react": "^16.0.0",
 		"react-dom": "^16.0.0"
 	},
-	"gitHead": "8197c44d444625b1ae442d2608dd1e26439c2e96"
+	"gitHead": "b584ac5f5ad1852b110aa41110ed204e5ef9f6cf"
 }
