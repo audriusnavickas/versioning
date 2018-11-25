@@ -1,6 +1,6 @@
 {
 	"name": "@audnav/button",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "The button component",
 	"author": "Audnav",
 	"main": "dist/index.js",
@@ -17,7 +17,7 @@
 		"build": "../../rollup -c"
 	},
 	"dependencies": {
-		"@audnav/text": "^0.0.0"
+		"@audnav/text": "^0.0.1"
 	},
 	"peerDependencies": {
 		"react": "^16.0.0",
